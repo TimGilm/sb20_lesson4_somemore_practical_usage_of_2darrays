@@ -1,0 +1,3 @@
+module sb20_less4_some_more_practical_usage_of_2darrays
+
+go 1.21
